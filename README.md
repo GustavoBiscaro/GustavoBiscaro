@@ -6,8 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ksks.tavo/)
 
 ## <strong>Infos</strong>
-<img align="center" alt="graphic" src="https://github-readme-stats.vercel.app/api?username={GustavoBiscaro}&theme=blue-green"/>
-https://github-readme-stats.vercel.app/api/top-langs/?username={GustavoBiscaro}&theme=blue-green
+
 
 ## <strong>Technologies that I usually use on a daily basis</strong>
 
