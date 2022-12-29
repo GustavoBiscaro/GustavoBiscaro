@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ksks.tavo/)
 
 ## <strong>Infos</strong>
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=GustavoBiscaro&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green))
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=GustavoBiscaro&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username={GustavoBiscaro}&theme=dracula))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBiscaro&layout=compact)](https://github.com/GustavoBiscaro)
 
