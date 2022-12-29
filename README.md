@@ -6,7 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ksks.tavo/)
 
 ## <strong>Infos</strong>
+![GustavoBiscaro GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBiscaro&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBiscaro&layout=compact)](https://github.com/GustavoBiscaro/github-readme-stats)
 
 ## <strong>Technologies that I usually use on a daily basis</strong>
 
